@@ -13,34 +13,160 @@ body {
     background-color: #000000;
     text-align: left;
     color:rgb(255, 255, 255);
-    height: 110vh;
+    height: 90vh;
     background-repeat: no-repeat;
 }
 
 h1 {
-    font-size: 22px;
+  font-size: 34px;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: -190px;
     margin-left: 40px;
+    font-weight: 500;
 }
 
+
 #marquee1 {
-  color: blue;
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee1 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  max-width: 100px;
 }
 
 #marquee2 {
-  color: yellow;
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee2 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  max-width: 100px;
 }
 
 #marquee3 {
-  color: red;
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
 }
 
+#marquee3 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
 
+#marquee4 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
 
+#marquee4 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
 
+#marquee5 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
 
-  
+#marquee5 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee6 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee6 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee7 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee7 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee8 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee8 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee9 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee9 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  max-width: 100px;
+}
+
+#marquee10 {
+  color: white;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#marquee10 span:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  max-width: 100px;
+}
 
 .container {
     text-align: left;

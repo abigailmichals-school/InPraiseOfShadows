@@ -19,10 +19,11 @@ body {
 
 
 h1 {
-    font-size: 22px;
-    margin-top: 50px;
+    font-size: 34px;
+    margin-top: 40px;
     margin-bottom: 50px;
     margin-left: 40px;
+    font-weight: 500;
 }
 
 .text {
@@ -32,11 +33,17 @@ h1 {
     /* margin: 0 auto; */ 
         /* ^to have text be certain width AND in center */
     /* padding: 20px; */
-    color: rgb(0, 0, 0)
+    color: rgb(0, 0, 0);
+    font-weight: 400;
 }
 
 h2 {
-    color: white;
+    font-size: 34px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    color: #fff;
+    font-weight: 500;
 }
 
 p{
@@ -55,7 +62,7 @@ a{
   /* breakpoint */
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 700px) {
-    body {background-color: rgb(228, 228, 228);}
-    html {background-color: rgb(228, 228, 228);}
+    body {background-color: rgb(255, 255, 255);}
+    html {background-color: rgb(255, 255, 255);}
   }
   

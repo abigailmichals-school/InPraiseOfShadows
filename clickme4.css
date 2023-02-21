@@ -11,16 +11,18 @@ body {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 34px;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 40px;
+    font-weight: 500;
 }
 
 h2 {
     font-size: 16px;
     max-width: 700px;
     margin-left: 40px;
+    font-weight: 400;
     /* margin: 0 auto; */ 
         /* ^to have text be certain width AND in center */
 

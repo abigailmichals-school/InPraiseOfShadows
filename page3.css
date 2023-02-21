@@ -4,7 +4,6 @@ html {
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    background: linear-gradient(to bottom,#000000, #161616, #626262);
     color:rgb(0, 0, 0);
     height: 115vh;
     background-repeat: no-repeat;
@@ -12,22 +11,28 @@ body {
 
 h1 {
     position: relative;
-    font-size: 22px;
+    font-size: 34px;
     margin-top: 50px;
     margin-bottom: 50px;
-    /* margin-left: 40px; */
-    text-align: center;
+    margin-left: 40px;
+    text-align: left;
     z-index: 1;
+    font-weight: 500;
+}
+
+h1:hover {
+    color: white;
 }
 
 h2 {
     position: relative;
     font-size: 16px;
-    max-width: 800px;
+    max-width: 700px;
     text-align: center;
     /* margin-left: 40px; */
     margin: 0 auto; 
     z-index: 1;
+    font-weight: 400;
 
 }
 

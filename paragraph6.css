@@ -2,21 +2,23 @@
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    background: linear-gradient(to bottom,#ffffff, #888888);
+    /* background: linear-gradient(to bottom,#ffffff, #888888); */
     text-align: center;
     height: 100vh;
     background-repeat: no-repeat;
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 34px;
     margin-top: 30px;
     margin-bottom: 50px;
     margin-left: 40px;
+    font-weight: 500;
 }
 
 h2 {
     font-size: 40px;
+    font-weight: 400;
 }
 
 .paragraph1 {

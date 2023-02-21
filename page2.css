@@ -9,20 +9,19 @@ html {
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    /* background: linear-gradient(to bottom,#000000, #9d9d9d); */
-    text-align: left;
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
     color:rgb(255, 255, 255);
-    height: 110vh;
+    height: 165vh;
     background-repeat: no-repeat;
 }
 
+
 h1 {
-    font-size: 22px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    font-size: 34px;
+    text-align: left;
     margin-left: 40px;
-    z-index: +1;
+    margin-top: 50px;
+    font-weight: 500;
     color: black;
 }
 
@@ -52,6 +51,7 @@ h2 {
     /* text-align: left; */
     /* margin-top: 35vh; */
     max-width: 500px;
+    min-width: 300px;
     margin-left: auto;
     margin-right: auto;
   }

@@ -17,10 +17,13 @@ body {
 }
 
 h1 {
-    font-size: 22px;
-    /* margin-top: 50px; */
+    font-size: 34px;
+    margin-top: 20px;
+    margin-bottom: 50px;
     margin-left: 40px;
     color: #fff;
+    font-weight: 500;
+
 }
 
 h2 {
@@ -30,6 +33,7 @@ h2 {
     /* margin: 0 auto; */ 
     margin-top: 32px;
     color: rgb(0, 0, 0);
+    font-weight: 400;
 
 }
 
@@ -45,8 +49,4 @@ h3 {
     /* position: sticky; */
     position: fixed;
     top: 5%;
-}
-
-.container {
-    backgr
 }
