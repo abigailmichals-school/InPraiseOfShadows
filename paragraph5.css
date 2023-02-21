@@ -1,0 +1,84 @@
+
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: linear-gradient(to bottom,#ffffff, #888888);
+    text-align: center;
+    color:rgb(0, 0, 0);
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.paragraph1 {
+    font-size: 16px;
+    max-width: 700px;
+    margin-top: 0px;
+    margin-left: 250px;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    text-align: left;
+}
+
+.paragraph2 {
+    font-size: 16px;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-left: 310px;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    text-align: left;
+}
+
+.paragraph3 {
+    font-size: 16px;
+    max-width: 700px;
+    margin-top: 120px;
+    margin-left: 245px;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    text-align: left;
+}
+
+.paragraph4 {
+    font-size: 16px;
+    max-width: 700px;
+    margin-top: 15px;
+    margin-left: 490px;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    text-align: left;
+}
+
+.paragraph5 {
+    font-size: 16px;
+    max-width: 700px;
+    margin-top: 150px;
+    margin-left: 390px;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    text-align: left;
+}
+
+.container {
+    text-align: left;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+a {
+    color: rgb(0, 0, 0);
+  }
+

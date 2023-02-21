@@ -1,0 +1,61 @@
+html {
+    background-color: black;
+    /* background: linear-gradient(to bottom,#000000, #9d9d9d);
+    text-align: center;
+    color:rgb(255, 255, 255);
+    height: 200vh;
+    background-repeat: no-repeat; */
+}
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    /* background: linear-gradient(to bottom,#000000, #9d9d9d); */
+    background-color: black;
+    text-align: left;
+    color:rgb(0, 0, 0);
+    height: 110vh;
+    background-repeat: no-repeat;
+}
+
+
+h1 {
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+
+.text {
+    font-size: 16px;
+    max-width: 700px;
+    margin-left: 40px;
+    /* margin: 0 auto; */ 
+        /* ^to have text be certain width AND in center */
+    /* padding: 20px; */
+    color: rgb(0, 0, 0)
+}
+
+h2 {
+    color: white;
+}
+
+p{
+    font-size: 18px;
+}
+
+a{
+    font-size: 18px;
+    color: black;
+}
+
+.container {
+    text-align: left;
+}
+
+  /* breakpoint */
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 700px) {
+    body {background-color: rgb(228, 228, 228);}
+    html {background-color: rgb(228, 228, 228);}
+  }
+  

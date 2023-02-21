@@ -1,0 +1,165 @@
+html {
+    background-color: black;
+
+}
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: linear-gradient(to bottom,#000000, #9d9d9d);
+    text-align: left;
+    color:rgb(255, 255, 255);
+    height: 110vh;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* margin-left: 40px; */
+}
+
+h2 {
+    font-size: 18px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+/* blur text effects below */
+
+.line1 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line1:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line2 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line2:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line3 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line3:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line4 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line4:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line5 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line5:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line6 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line6:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line7 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line7:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line8 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line8:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line9 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line9:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line10 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line10:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.blurred {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.blurred:hover {
+    color: white;
+   text-shadow: 0 0 5px rgba(255, 255, 255, 0.485);
+}
+
+.line11 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line11:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.line12 {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.line12:hover {
+    color: white;
+   text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+
+

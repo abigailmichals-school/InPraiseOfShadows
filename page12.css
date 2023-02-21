@@ -1,0 +1,82 @@
+html {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    color:rgb(255, 255, 255);
+    height: 110vh;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+
+.paragraphtext {
+    font-size: 16px;
+    max-width: 700px;
+    margin-left: 40px;
+    /* margin: 0 auto; */ 
+        /* ^to have text be certain width AND in center */
+
+}
+
+.goldtext {
+    font-size: 16px;
+    max-width: 700px;
+    color: gold;
+    /* margin: 0 auto; */ 
+        /* ^to have text be certain width AND in center */
+
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left: 40px;
+    /* transition-duration: 0.4s; */
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: rgb(255, 255, 255);
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    border: 2px solid black;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+.container {
+    text-align: left;
+}
+
+
