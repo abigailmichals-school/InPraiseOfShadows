@@ -24,66 +24,27 @@ h1 {
     margin-left: 40px;
 }
 
-.scroll-text {
-    font-size: 16px;
-    /* margin: 0 auto; */ 
-        /* ^to have text be certain width AND in center */
-
+#marquee1 {
+  color: blue;
 }
 
-/* code below is taken from https://blog.hubspot.com/website/scrolling-text-css and then customized for my needs*/
+#marquee2 {
+  color: yellow;
+}
 
-#scroll-container {
-    border: 3px solid black;
-    border-radius: 5px;
-    overflow: hidden;
-    max-height: 25px;
-    color: #000000;
-    background-color: white;
-    /* min-width: 1800px; */
-  }
+#marquee3 {
+  color: red;
+}
 
 
-  
-  #scroll-text {
-    /* animation properties */
-    -moz-transform: translateX(100%);
-    -webkit-transform: translateX(100%);
-    transform: translateX(100%);
-    -moz-animation: my-animation 30s linear infinite;
-    -webkit-animation: my-animation 20s linear infinite;
-    /* the command below determines how fast the text scrolls, however you need to figure out how to prevent the intial delay because otherwise it takes to long to arive */
-    animation: my-animation 30s linear infinite;
-  }
-  
-  /* for Firefox */
-  @-moz-keyframes my-animation {
-    from { -moz-transform: translateX(100%); }
-    to { -moz-transform: translateX(-100%); }
-  }
-  
-  /* for Chrome */
-  @-webkit-keyframes my-animation {
-    from { -webkit-transform: translateX(100%); }
-    to { -webkit-transform: translateX(-100%); }
-  }
-  
-  @keyframes my-animation {
-    from {
-      -moz-transform: translateX(100%);
-      -webkit-transform: translateX(100%);
-      transform: translateX(100%);
-    }
-    to {
-      -moz-transform: translateX(-100%);
-      -webkit-transform: translateX(-100%);
-      transform: translateX(-100%);
-    }
-  }
+
+
+
   
 
 .container {
     text-align: left;
+    margin-top: 35vh;
 }
 
 

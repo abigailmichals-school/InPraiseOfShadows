@@ -13,11 +13,12 @@ body {
     background-position: right center;
     height: 1000vh;
     background-size: 3000px 100px;
+    padding-top: 350px;
 }
 
 h1 {
     font-size: 22px;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     margin-left: 40px;
     color: #fff;
 }
@@ -27,7 +28,7 @@ h2 {
     max-width: 700px;
     margin-left: 40px;
     /* margin: 0 auto; */ 
-    margin-top: 305px;
+    margin-top: 32px;
     color: rgb(0, 0, 0);
 
 }
@@ -38,4 +39,14 @@ h3 {
 
 h3 {
     font-size: 200px;
+}
+
+#title {
+    /* position: sticky; */
+    position: fixed;
+    top: 5%;
+}
+
+.container {
+    backgr
 }
