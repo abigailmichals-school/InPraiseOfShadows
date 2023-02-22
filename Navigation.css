@@ -1,12 +1,12 @@
 html {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     /* background: linear-gradient(to bottom,#000000, #9d9d9d); */
     /* text-align: center; */
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     height: 103vh;
     background-repeat: no-repeat;
     margin: 0;
@@ -23,7 +23,7 @@ h1 {
 h3 {
     font-size: 25px;
     /* text-align: right;  */
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: 500;
 }
 
@@ -39,7 +39,7 @@ p{
 
 a{
     font-size: 18px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
